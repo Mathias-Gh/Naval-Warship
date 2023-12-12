@@ -1,0 +1,15 @@
+.table{
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid black;
+    text-align: center;
+}
+.thead{
+    border-collapse: collapse;
+    border: 3px solid black;
+}
+.td{
+    border-collapse: collapse;
+    border: 1px solid black;
+}

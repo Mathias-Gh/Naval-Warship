@@ -1,0 +1,18 @@
+button{
+    background-color: aqua;
+}
+#ConfBtn{
+    background-color: white;
+    color: black;
+}
+h4{
+    text-align: center;
+}
+#iconSite{
+    width: 80px;
+    margin: 30px auto;
+    display: block;
+    border-radius: 15px;
+    border: 2px solid white;
+    padding: 10px;
+}
